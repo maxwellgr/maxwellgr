@@ -1,89 +1,97 @@
 # Hi, I'm Maxwell 👋
 
-Python Developer | Computer Science Student | Cybersecurity Enthusiast
+💻 **Computer Science Student**  
+🔐 Interested in **Cybersecurity, Automation, and Financial Technology**
 
-Computer Science student interested in cybersecurity, automation, and financial technology.
-
-Currently building projects in Python and learning about APIs, systems, and algorithmic trading.
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxwellgr&theme=github-dark&cache_seconds=86400)
-
+I build projects in **Python** focused on APIs, automation, and algorithmic trading systems.  
+Currently focusing on improving my programming fundamentals while developing portfolio projects.
 
 ---
 
-## 💻 Skills
+# 🧰 Technologies & Tools
 
-- Python
-- API Integration
-- Automation
-- Git & GitHub
-- Data Analysis
-
----
-
-## 🛠 Technologies
-
-- Python
-- Git
-- REST APIs
-- Pandas
-- CLI Applications
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![API](https://img.shields.io/badge/API-Integration-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Tools-green?style=for-the-badge)
 
 ---
 
-## 🚀 Projects
+# 📊 GitHub Stats
 
-### Trading Bot (Python)
+![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwellgr&show_icons=true&theme=tokyonight)
 
-Algorithmic trading bot using the Alpaca API for paper trading.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellgr&layout=compact&theme=tokyonight)
 
-Features:
+---
+
+# 🚀 Projects
+
+## 📈 Trading Bot (Python)
+
+Algorithmic trading bot built with Python using the **Alpaca API** for paper trading.
+
+**Features**
 
 - Multiple strategies (MA, RSI, MACD, Bollinger Bands)
 - Multi-symbol trading
 - Risk management system
 - Strategy ensemble logic
-- Paper trading integration with Alpaca
 
-🔗 Repository  
-https://github.com/maxwellgr/trading-bot-part1
+🔗 https://github.com/maxwellgr/trading-bot-part1
 
 ---
 
-### Python To-Do List CLI
+## ✅ To-Do List CLI App
 
-Simple command-line to-do list application written in Python.
+Simple command-line productivity tool built in Python.
 
-Features:
+**Features**
 
 - Add tasks
 - View tasks
-- Remove tasks
-- Simple CLI interaction
+- Mark tasks as completed
+- Delete tasks
 
-🔗 Repository  
-https://github.com/maxwellgr/to_do_list
+🔗 https://github.com/maxwellgr/to_do_list
 
 ---
 
-## 🎯 Interests
+# 🎯 Current Focus
+
+- Improving Python programming skills
+- Learning cybersecurity fundamentals
+- Building projects for my developer portfolio
+
+---
+
+# 📚 Learning
+
+Currently exploring:
 
 - Cybersecurity
-- Artificial Intelligence
-- Quantitative Finance
-- Automation
-- Financial Technology
+- Automation tools
+- API development
+- Financial data analysis
 
 ---
 
-## 📫 Contact
+# 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=maxwellgr&color=blue)
+
+---
+
+# 📫 Contact
 
 GitHub: https://github.com/maxwellgr
 
-<!--
-**maxwellgr/maxwellgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/maxwellgr/maxwellgr/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
