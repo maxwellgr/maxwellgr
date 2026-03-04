@@ -18,11 +18,11 @@ Currently focusing on improving my programming fundamentals while developing por
 
 ---
 
-# 📊 GitHub Stats
+---
 
-![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwellgr&show_icons=true&theme=tokyonight)
+# 📈 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellgr&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxwellgr&theme=github-dark&hide_border=true)
 
 ---
 
