@@ -6,9 +6,7 @@ Computer Science student interested in cybersecurity, automation, and financial 
 
 Currently building projects in Python and learning about APIs, systems, and algorithmic trading.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxwellgr&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellgr&layout=compact&theme=tokyonight)
 ---
 
 ## 💻 Skills
