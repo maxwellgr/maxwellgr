@@ -6,6 +6,8 @@ Computer Science student interested in cybersecurity, automation, and financial 
 
 Currently building projects in Python and learning about APIs, systems, and algorithmic trading.
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxwellgr&theme=github-dark&cache_seconds=86400)
+
 
 ---
 
